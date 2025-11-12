@@ -1,0 +1,12 @@
+# Estruturas de Repetição - Variável Acumuladora
+
+# Definição da variável
+i = int
+a = 5
+b = 8
+s = 0
+
+# Definição do laço e Teste
+for i in range(a, b + 1):
+  s = s + i
+  print(s)
